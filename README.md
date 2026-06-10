@@ -1,14 +1,14 @@
 # Caio Barreto
 
-**Founder na [kinid](https://kinid.tech) · Engenheiro de software · Ciência da Computação @ CESAR School**
+**Engenheiro de software @ [kinid](https://kinid.tech) · CloudIn — Ciência da Computação @ CESAR School**
 
-Construo a **kinid** — a identidade digital do ativo imobiliário: a plataforma unifica cada interação do empreendimento e aplica IA, do lançamento à revenda. Na prática, meu dia a dia é levar IA para a operação real: automação de atendimento a hóspedes em escala, integrações com Firebase e APIs de modelos de linguagem, e a engenharia de produto que sustenta isso.
+Trabalho com IA aplicada a operações reais: na **kinid** (identidade digital do ativo imobiliário) e na **CloudIn** (tecnologia para hotelaria). No dia a dia, construo automação de atendimento a hóspedes em escala, integrações com Firebase e APIs de modelos de linguagem, e a engenharia que sustenta isso.
 
 ### O que estou fazendo agora
 
-- Desenvolvendo a plataforma da kinid — backend, integrações de IA e autenticação multi-tenant para o setor hoteleiro
+- Plataforma da kinid — backend, integrações de IA e autenticação multi-tenant
+- Sistemas de reservas e atendimento para hotelaria na CloudIn
 - Concluindo Ciência da Computação na CESAR School (8º período)
-- Validando produto com clientes reais do setor de hospitalidade
 
 ### Stack
 
@@ -18,17 +18,20 @@ Construo a **kinid** — a identidade digital do ativo imobiliário: a plataform
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Projetos em destaque
 
-- **[cloudin-reserva-hotel](https://github.com/Caiobadv/cloudin-reserva-hotel)** — sistema de reservas para hotelaria (TypeScript)
-- **[VentilAI](https://github.com/Caiobadv/VentilAI)** — aplicação com IA · [demo](https://ventil-ai.vercel.app) (TypeScript)
-- **[verbalyst](https://github.com/Caiobadv/verbalyst)** — análise de linguagem em Python
-- **[ControleRemedios](https://github.com/Caiobadv/ControleRemedios)** — controle de medicamentos · [demo](https://controle-remedios.vercel.app)
-- **[VaiDarNamoroAED](https://github.com/Caiobadv/VaiDarNamoroAED)** — jogo em C com árvore binária e insertion sort
+- **[tinocada](https://github.com/Caiobadv/tinocada)** — IsCoolGPT: backend containerizado de assistente educacional (FastAPI, Docker)
+- **[Segmenta-oIA](https://github.com/Caiobadv/Segmenta-oIA)** — segmentação de imagens comparando deep learning e K-Means (Python)
+- **[citibike-bigdata](https://github.com/anabxalves/citibike-bigdata)** — pipeline end-to-end de engenharia de dados com PySpark
+- **[cloudin-reserva-hotel](https://github.com/Caiobadv/cloudin-reserva-hotel)** — sistema de reservas para hotelaria (Next.js, Prisma)
+- **[verbalyst](https://github.com/Caiobadv/verbalyst)** — jogo de adivinhação de palavras por similaridade semântica (Word2Vec, Python)
+- **[CLEO](https://github.com/theomilll/CLEO)** — Central Listing for Easy Ordering: sistema de pedidos construído em equipe, com deploy em produção
+- **[VentilAI](https://github.com/Caiobadv/VentilAI)** — UbiRemote: sistema de controle remoto inteligente · [demo](https://ventil-ai.vercel.app)
 
 ### Contato
 
-[kinid.tech](https://kinid.tech) · [contato@kinid.tech](mailto:contato@kinid.tech)
+[caiobarretodv@hotmail.com](mailto:caiobarretodv@hotmail.com)
