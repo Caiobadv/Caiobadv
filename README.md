@@ -1,6 +1,6 @@
 # Caio Barreto
 
-**Engenheiro de software @ [kinid](https://kinid.tech) · CloudIn — Ciência da Computação @ CESAR School**
+**Engenheiro de software  [kinid](https://kinid.tech) · CloudIn — Ciência da Computação @ CESAR School**
 
 Trabalho com IA aplicada a operações reais: na **kinid** (identidade digital do ativo imobiliário) e na **CloudIn** (tecnologia para hotelaria). No dia a dia, construo automação de atendimento a hóspedes em escala, integrações com Firebase e APIs de modelos de linguagem, e a engenharia que sustenta isso.
 
